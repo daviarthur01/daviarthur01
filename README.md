@@ -1,4 +1,4 @@
-<h1> sou Sou Davi Arthur 👋<h1>
+<h1> Ola sou Davi Arthur 👋<h1>
 <h1> quer ser meu amigo👍😉</h1>
 
 <p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
