@@ -1,5 +1,5 @@
-<h1> Ola sou Davi Arthur 👋<h1>
-<h1> quer ser meu amigo👍😉</h1>
+<h1> Ola seja bem vindo, espero que goste dos meus projetos :D</h1>
+
 
 <p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
   </p>
