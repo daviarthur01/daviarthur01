@@ -1,5 +1,5 @@
 <h1>Olá seja bem-vindo a este perfil🤗.</h1>
-
+<p>Vamos codar?</p>
 
 <p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
   </p>
@@ -13,7 +13,6 @@
 </div>
 
 ##
-<a href = "mailto:daviarthursistro08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   </div>
 
