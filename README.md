@@ -15,7 +15,6 @@
 ##
 <a href = "mailto:daviarthursistro08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/daviarthur01/daviarthur01/blob/output/github-contribution-grid-snake.svg)
   </div>
 
 <div align="center">
