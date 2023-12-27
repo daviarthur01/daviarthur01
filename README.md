@@ -1,4 +1,4 @@
-<h1>Olá seja bem-vindo a este perfil.Tem algumas coisas que são só brincadeira ou um git vazio e também provavelmente os meus projetos vão estar sem uma explicação de como usar.</h1>
+<h1>Olá seja bem-vindo a este perfil🤗.</h1>
 
 
 <p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
