@@ -1,5 +1,4 @@
 <h3>Olá sou Davi Arthur👋.</h3>
-<h3>Vamos codar?</h3>
 
 <p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
   </p>
