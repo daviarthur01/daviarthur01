@@ -1,4 +1,4 @@
-<h1>Olá seja bem-vindo a este perfil🤗.</h1>
+<h1>Olá sou Davi Arthur👋.</h1>
 <h2>Vamos codar?</h2>
 
 <p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
