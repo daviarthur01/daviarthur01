@@ -1,7 +1,10 @@
-<h3>Olá sou Davi Arthur👋.</h3>
+<h5>What's up my friends.</h5>
 
 <p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
   </p>
+  <p>I'm Arthur. I'm studying to maybe become a developer💻</p>
+  <p>💜 JavaScript</p>
+  <p>💻 VueJs, Node, MongoDB</p>
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">  
