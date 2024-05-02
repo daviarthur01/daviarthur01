@@ -1,6 +1,6 @@
 <h5>What's up my friends.</h5>
 
-<p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
+<p>    Currently studying HTML and Javascript✔
   </p>
   <p>I'm Arthur. I'm studying to maybe become a developer💻</p>
   <p>💜 JavaScript</p>
