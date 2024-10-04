@@ -6,7 +6,7 @@
 <p>📚 I'm currently learning HTML and JavaScript and am interested in full stack development.</p>
 <p>💻 My studies include: JavaScript, Vue.js, Node.js and MongoDB.</p>
 <p>🎯 Goal: Become a Full Stack Developer!</p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF770&width=435&lines=Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF770&width=435&lines=Full+Stack+Web+Developer...
 ##
 
 ### 💡 Languages ​​and Tools:
